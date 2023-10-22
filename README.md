@@ -1,6 +1,6 @@
 # YOLOv8 Custom Object Detection
 
-This repository contains an implementation of [YOLOv8 from Ultralytics](https://github.com/ultralytics/ultralytics) for custom object detection. The model is pre-trained on COCO dataset and fine-tuned on custom data sourced from the Hugging Face library.
+This repository contains an implementation of [YOLOv8 from Ultralytics](https://github.com/ultralytics/ultralytics) for custom object detection. The model is pre-trained on COCO dataset and fine-tuned on custom data sourced from the Hugging Face Dataset library.
 
 ## Table of Contents
 
